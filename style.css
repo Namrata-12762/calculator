@@ -1,0 +1,31 @@
+.main-heading{
+    text-align: center;
+}
+
+#Calculator{
+    border: 1px;
+    color: black;
+    background-color: rgb(44, 39, 31);
+    border-radius: 5px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+    text-size-adjust: 45px;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
